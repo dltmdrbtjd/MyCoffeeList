@@ -15,8 +15,8 @@
 ## 페이지 구성
 | 메인페이지 | 상세페이지 | 수정하기 페이지 | 작성하기 페이지 |
 | --------- | --------- | -------------- | -------------- |
-|<img width="397" alt="메인페이지" src="https://user-images.githubusercontent.com/59644518/124128737-03f29800-dab8-11eb-8310-9594720a3b5d.png">|<img width="429" alt="상세페이지" src="https://user-images.githubusercontent.com/59644518/124128753-0a810f80-dab8-11eb-8bc5-5161b4443f61.png">|<img width="416" alt="수정하기 페이지" src="https://user-images.githubusercontent.com/59644518/124128772-0ead2d00-dab8-11eb-911b-2e563029454b.png">|<img width="440" alt="작성하기" src="https://user-images.githubusercontent.com/59644518/124142817-8897e300-dac5-11eb-828c-ff545df18ed6.png">|
-| 설명 | 설명 | 설명 |
+|<img width="400" alt="메인페이지" src="https://user-images.githubusercontent.com/59644518/124128737-03f29800-dab8-11eb-8310-9594720a3b5d.png">|<img width="400" alt="상세페이지" src="https://user-images.githubusercontent.com/59644518/124128753-0a810f80-dab8-11eb-8bc5-5161b4443f61.png">|<img width="400" alt="수정하기 페이지" src="https://user-images.githubusercontent.com/59644518/124128772-0ead2d00-dab8-11eb-911b-2e563029454b.png">|<img width="400" alt="작성하기" src="https://user-images.githubusercontent.com/59644518/124142817-8897e300-dac5-11eb-828c-ff545df18ed6.png">|
+| 설명 | 설명 | 설명 | 설명 |
 | 기본적인 리스트 컴포넌트들을 불러와서 리스트들을 볼 수 있는 화면입니다. 작성하기 클릭시 작성하기 페이지로 이동하고 컨텐츠 클릭시 상세페이지로 이동합니다 | 컨텐츠 클릭시 이동한 해당 상세페이지 입니다. 수정하기 버튼 클릭시 수정페이지로 이동하고 삭제하기 클릭시 삭제후 다시 첫 페이지로 돌아갑니다. | 수정하기 페이지입니다. placeholder로 기존에 작성된 정보들을 불러오고 새로 작성후 수정하기 완료버튼을 클릭하면 수정완료후 메인페이지로 돌아갑니다. | 작성하기 페이지입니다. 빈칸없이 모두 작성해야 완료가되고 작성완료시 메인페이지로 돌아갑니다. |
 
 ## 개발과정에서 겪은 어려움
